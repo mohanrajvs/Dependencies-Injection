@@ -1,4 +1,4 @@
-# The Dependency Injection Course - Practical Challenge
+## The Dependency Injection Course - Practical Challenge
 
 ## Description
 
